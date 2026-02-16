@@ -13,7 +13,7 @@ A sleek, mobile-first personal landing page built with a **Midnight Glassmorphis
 - **Interactive Hover States:** Smooth CSS transitions for better user experience.
 
 ## 🔗 Live Demo
-[Insert your GitHub Pages link here]
+[https://github.com/N-thnI/link-in-bio-page]
 
 ---
 *Next Up: Day 2 - Interactive Dark Mode Dashboard*
